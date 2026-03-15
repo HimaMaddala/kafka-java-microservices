@@ -1,0 +1,16 @@
+{
+  "cart": [
+    {
+      "productId": "biryani_001",
+      "name": "Chicken Biryani",
+      "price": 300,
+      "quantity": 1
+    },
+    {
+      "productId": "coke_002",
+      "name": "Coke 500ml",
+      "price": 100,
+      "quantity": 2
+    }
+  ]
+}
